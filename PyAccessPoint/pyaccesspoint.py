@@ -34,7 +34,7 @@ auth_algs=1
 #1 - wpa only
 #2 - wpa2 only
 #3 - both
-wpa=3
+wpa=2
 #sets wpa passphrase required by the clients to authenticate themselves on the network
 wpa_passphrase={1}
 #sets wpa key management
